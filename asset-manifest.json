@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FreelanceFusion/static/css/main.c91a2595.css",
-    "main.js": "/FreelanceFusion/static/js/main.3440092b.js",
+    "main.js": "/FreelanceFusion/static/js/main.e733096a.js",
     "static/js/787.492551fd.chunk.js": "/FreelanceFusion/static/js/787.492551fd.chunk.js",
     "index.html": "/FreelanceFusion/index.html",
     "main.c91a2595.css.map": "/FreelanceFusion/static/css/main.c91a2595.css.map",
-    "main.3440092b.js.map": "/FreelanceFusion/static/js/main.3440092b.js.map",
+    "main.e733096a.js.map": "/FreelanceFusion/static/js/main.e733096a.js.map",
     "787.492551fd.chunk.js.map": "/FreelanceFusion/static/js/787.492551fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c91a2595.css",
-    "static/js/main.3440092b.js"
+    "static/js/main.e733096a.js"
   ]
 }
